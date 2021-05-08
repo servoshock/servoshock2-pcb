@@ -1,0 +1,80 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C18        0805_cap              1974mil       2281mil       1974mil       2281mil       1974mil   2243.599mil  T         90.00 0805 Capacitor_10uF 25V
+C17        0805_cap               225mil        420mil        225mil        420mil        225mil    382.599mil  T         90.00 0805 Capacitor_10uF 25V
+C3         0805_cap               819mil       2633mil        819mil       2633mil        819mil   2670.401mil  T        270.00 0805 Capacitor_10uF 25V
+MH4        #4_Clearance_Hole        270mil        150mil        270mil        150mil        270mil        150mil  T          0.00 #4 Clearance Hole
+MH3        #4_Clearance_Hole       1825mil        150mil       1825mil        150mil       1825mil        150mil  T          0.00 #4 Clearance Hole
+MH2        #4_Clearance_Hole        150mil       2650mil        150mil       2650mil        150mil       2650mil  T          0.00 #4 Clearance Hole
+MH1        #4_Clearance_Hole       2150mil       2650mil       2150mil       2650mil       2150mil       2650mil  T          0.00 #4 Clearance Hole
+RB17       0603_res              1850mil       1900mil       1850mil       1900mil   1816.535mil       1900mil  B          0.00 RES 0603 DNP   
+RB16       0603_res              1850mil       1800mil       1850mil       1800mil   1883.465mil       1800mil  B        180.00 RES 0603 DNP   
+RB15       0603_res              1850mil       1700mil       1850mil       1700mil   1883.465mil       1700mil  B        180.00 RES 0603 DNP   
+RB14       0603_res              1850mil       1600mil       1850mil       1600mil   1883.465mil       1600mil  B        180.00 RES 0603 DNP   
+RB13       0603_res              1850mil       1500mil       1850mil       1500mil   1883.465mil       1500mil  B        180.00 RES 0603 DNP   
+RB12       0603_res              1850mil       1400mil       1850mil       1400mil   1883.465mil       1400mil  B        180.00 RES 0603 DNP   
+RB11       0603_res              1850mil       1300mil       1850mil       1300mil   1883.465mil       1300mil  B        180.00 RES 0603 DNP   
+RB10       0603_res              1650mil       1050mil       1650mil       1050mil   1683.465mil       1050mil  B        180.00 RES 0603 DNP   
+RB9        0603_res              1650mil        950mil       1650mil        950mil   1683.465mil        950mil  B        180.00 RES 0603 DNP   
+RB8        0603_res              1650mil        850mil       1650mil        850mil   1683.465mil        850mil  B        180.00 RES 0603 DNP   
+RB7        0603_res              1700mil        750mil       1700mil        750mil   1733.465mil        750mil  B        180.00 RES 0603 DNP   
+RB6        0603_res              1850mil        700mil       1850mil        700mil   1883.465mil        700mil  B        180.00 RES 0603 DNP   
+RB5        0603_res              1700mil        650mil       1700mil        650mil   1733.465mil        650mil  B        180.00 RES 0603 DNP   
+RB4        0603_res              1850mil        600mil       1850mil        600mil   1883.465mil        600mil  B        180.00 RES 0603 DNP   
+RB3        0603_res              1700mil        550mil       1700mil        550mil   1733.465mil        550mil  B        180.00 RES 0603 DNP   
+RB2        0603_res              1850mil        500mil       1850mil        500mil   1883.465mil        500mil  B        180.00 RES 0603 DNP   
+RB1        0603_res              1700mil        450mil       1700mil        450mil   1733.465mil        450mil  B        180.00 RES 0603 DNP   
+RB0        0603_res              1850mil        400mil       1850mil        400mil   1883.465mil        400mil  B        180.00 RES 0603 DNP   
+C8         0603_cap              1205mil        955mil       1205mil        955mil   1238.465mil        955mil  T        180.00 0603 Capacitor 0.1uF 16V
+U3         TI-RGT_QFN16          1250mil       1975mil       1250mil       1975mil   1307.087mil   1945.472mil  T        180.00 4-17V 3A Buck Regulator
+Y1         CSM-3X                 540mil       1405mil        540mil       1405mil        540mil   1296.732mil  T         90.00 ECS-200-20-3X-TR
+U9         SSOP-16_L             1785mil       2320mil       1785mil       2320mil   1693.465mil     2407.5mil  T        360.00 FT230XS-R      
+U8         24_Pin_Single_Row_Header       2125mil       1250mil       2125mil        100mil       2125mil        100mil  T        180.00 24 Pin Header  
+U7         24_Pin_Single_Row_Header       2225mil       1250mil       2225mil        100mil       2225mil        100mil  T        180.00 24 Pin Header  
+U5         SOT223_BCD            1350mil       1465mil       1350mil       1465mil   1440.551mil   1587.047mil  T        180.00 3.3V Regulator 
+JP2        1x3_Pin_Header         950mil       2000mil        950mil       2100mil        950mil       2100mil  T        360.00 1x3  Header    
+BEC        1x3_Pin_Header         100mil       2350mil        100mil       2250mil        100mil       2250mil  T        180.00 1x3  Header    
+SW1        MFS201N-16-Z          1130mil       2370mil       1130mil       2370mil    1287.48mil   2419.213mil  T        180.00 Slide Switch   
+S3         3x4_Pin_Header        1500mil        250mil       1350mil        350mil       1350mil        350mil  T          0.00 3x4  Header RA 
+S2         3x4_Pin_Header        1050mil        250mil        900mil        350mil        900mil        350mil  T          0.00 3x4  Header RA 
+S1         3x4_Pin_Header         600mil        250mil        450mil        350mil        450mil        350mil  T          0.00 3x4  Header RA 
+R13        0603_res              1770mil       2500mil       1770mil       2500mil       1770mil   2533.465mil  T        270.00 0603 Resistor_27 Ohms 1%
+R12        0603_res              1835mil       2500mil       1835mil       2500mil       1835mil   2533.465mil  T        270.00 0603 Resistor_27 Ohms 1%
+R6         0603_RES_4x_ARRAY       1450mil        515mil       1450mil        515mil   1402.756mil    548.465mil  T        360.00 Resistor Array 
+R5         0603_res              1290mil       2110mil       1290mil       2110mil   1256.535mil       2110mil  T        360.00 RES 0603 130k 1%
+R4         0603_res              1425mil       2110mil       1425mil       2110mil   1391.535mil       2110mil  T        360.00 RES 0603 680k 1%
+R3         0603_RES_4x_ARRAY       1050mil        516mil       1050mil        516mil   1002.756mil    549.465mil  T        360.00 Resistor Array 
+R1         0603_RES_4x_ARRAY        650mil        515mil        650mil        515mil    602.756mil    548.465mil  T        360.00 Resistor Array 
+L1         Taiyo_Yuden-NR_5040_Inductor       1515mil       1965mil       1515mil       1965mil   1444.134mil       1965mil  T         90.00 3.3uH          
+L2         1206_res               314mil        409mil        314mil        409mil        314mil    353.882mil  T         90.00 Ferrite        
+JP1        2x3_Pin_Header         730mil       2000mil        780mil       1900mil        780mil       1900mil  T        180.00 2x3  Header    
+J3         USB-MICRO-B-FCI_10118192-0001LF       1800mil   2667.343mil       1800mil       2720mil   1851.181mil   2614.685mil  T        180.00 USB MIcro-B 10118192-0001LF
+J1         Arduino_Shield_Uno_R3       1050mil        980mil        100mil       1500mil        100mil       1500mil  T        360.00 Arduino Shield Uno R3
+F1         0805_res              1975mil       2484mil       1975mil       2484mil       1975mil   2521.401mil  T        270.00 PTC 500mA 0805 
+EXT_PWR    ON_SHORE_OSTYC022150        520mil       2630mil        520mil       2630mil        620mil       2630mil  T        180.00 0.200" Screw Terminal
+C16        0805_cap               550mil       2275mil        550mil       2275mil    512.598mil       2275mil  T        360.00 0805 Capacitor_10uF 25V
+C15        0603_cap               675mil       1315mil        675mil       1315mil        675mil   1281.535mil  T         90.00 0603 Capacitor_20pF 50V
+C14        0603_cap               675mil       1445mil        675mil       1445mil        675mil   1478.465mil  T        270.00 0603 Capacitor_20pF 50V
+C10        0603_cap               759mil        509mil        759mil        509mil        759mil    475.536mil  T         90.00 0603 Capacitor 0.1uF 16V
+C7         0603_cap              1185mil        828mil       1185mil        828mil   1218.465mil        828mil  T        180.00 0603 Capacitor 0.1uF 16V
+C6         0603_cap               889mil        589mil        889mil        589mil        889mil    555.535mil  T         90.00 0603 Capacitor 0.1uF 16V
+C5         0603_cap               971mil       1297mil        971mil       1297mil        971mil   1330.465mil  T        270.00 0603 Capacitor 0.1uF 16V
+C4         0603_cap               889mil       1297mil        889mil       1297mil        889mil   1330.465mil  T        270.00 0603 Capacitor 0.1uF 16V
+C11        0805_cap               474mil        960mil        474mil        960mil    436.599mil        960mil  T        360.00 0805 Capacitor_10uF 25V
+C1         0805_cap              1075mil       1925mil       1075mil       1925mil       1075mil   1887.599mil  T         90.00 0805 Capacitor_10uF 25V
+C9         0805_cap              1121mil       1289mil       1121mil       1289mil       1121mil   1326.401mil  T        270.00 0805 Capacitor_10uF 25V
+C13        0805_cap              1025mil       1528mil       1025mil       1528mil       1025mil   1490.599mil  T         90.00 0805 Capacitor_10uF 25V
+C12        1210_CAP_115H          735mil       1730mil        735mil       1730mil        735mil       1673mil  T         90.00 CAP CER 47UF 16V X6S 1210
+C2         1210_CAP_115H         1305mil       1775mil       1305mil       1775mil       1305mil       1832mil  T        270.00 CAP CER 47UF 16V X6S 1210
+D1         0603_LED               475mil        510mil        475mil        510mil        475mil    476.536mil  T         90.00 0603 LED       
+J2         USB-A_Receptacle    456.654mil       1910mil        285mil       1910mil        510mil   2047.795mil  T        270.00 USB-A Receptacle UE27AC54100
+R8         0603_res              1930mil       2100mil       1930mil       2100mil   1896.535mil       2100mil  T          0.00 0603 Resistor_10k Ohms
+R7         0603_res              1930mil       2160mil       1930mil       2160mil   1896.535mil       2160mil  T          0.00 0603 Resistor_10k Ohms
+R2         0603_res               305mil       1272mil        305mil       1272mil        305mil   1238.535mil  T         90.00 0603 Resistor_10k Ohms
+R11        0603_res               540mil        510mil        540mil        510mil        540mil    543.465mil  T        270.00 0603 Resistor 330 Ohms 5%
+U4         TQFP-PT64_N            850mil        950mil        850mil        950mil    702.362mil    731.496mil  T         90.00 PIC24FJ64GB106T-I/PT
+C19        0603_cap              1032mil       1297mil       1032mil       1297mil       1032mil   1330.465mil  T        270.00 0603 Capacitor 0.1uF 16V
+C20        0603_cap              1155mil       2110mil       1155mil       2110mil   1188.465mil       2110mil  T        180.00 0603 Capacitor 0.1uF 16V
+ICSP       6_Pin_Single_Row_Header        300mil        900mil        300mil       1150mil        300mil       1150mil  T          0.00 6 Pin Single Row Header
+JP3        2x4_Pin_Header        1830mil        980mil       1780mil       1130mil       1780mil       1130mil  T          0.00 2x4 Header     
+
